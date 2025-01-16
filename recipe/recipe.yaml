@@ -1,5 +1,5 @@
 context:
-  version: 5.2.0
+  version: "5.2.4"
 
 package:
   name: wsrun
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/wsrun/-/wsrun-${{ version }}.tgz
-  sha256: 2288c6badf92b12dfa9dd48ecbe2194d779fd75d1bb66db28c388d4ef55e899b
+  sha256: 0be63e61a20795da815b95dd29fd35b1d1599d933ab44eb66169887f6763ab27
 
 build:
   number: 0
